@@ -6,7 +6,7 @@
 
 ## About Me 
 
-Hi! I have knowledge in **HTML**, **CSS**, and **JavaScript**. Currently, I'm exploring **Node.js** and **React.js** to expand my skillset.
+Hi! My name is Hari Govind N, from India IND. I have knowledge in **HTML**, **CSS**, and **JavaScript**. Currently, I'm exploring **Node.js** and **React.js** to expand my skillset.
 
 - 🌱 I’m always eager to learn new technologies and improve my coding skills.
 - 💻 I’m currently working on a full-stack project that integrates React.js with Node.js.
@@ -20,13 +20,13 @@ Fun fact: I enjoy solving puzzles and exploring logical challenges to keep my br
 ## Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/hari-govind-n-514723292/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:harigovindn700@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Send%20Mail-red?style=for-the-badge&logo=gmail" alt="Gmail">
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://alien-70.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=web" alt="Portfolio">
   </a>
 </div>
