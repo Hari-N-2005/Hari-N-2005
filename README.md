@@ -10,7 +10,12 @@
 
 Hi! I have knowledge in **HTML**, **CSS**, and **JavaScript**. Currently, I'm exploring **Node.js** and **React.js** to expand my skillset.
 
-I love building intuitive and responsive web applications, and I enjoy solving coding challenges and puzzles in my free time!
+- 🌱 I’m always eager to learn new technologies and improve my coding skills.
+- 💻 I’m currently working on a full-stack project that integrates React.js with Node.js.
+- 🎯 My goal is to become a proficient full-stack developer and contribute to impactful projects.
+- 🎨 I love experimenting with design and building visually appealing UIs.
+
+Fun fact: I enjoy solving puzzles and exploring logical challenges to keep my brain sharp!
 
 ---
 
@@ -26,4 +31,8 @@ I love building intuitive and responsive web applications, and I enjoy solving c
   <a href="https://your-portfolio-link.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=web" alt="Portfolio">
   </a>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="connect gif" width="300">
 </div>
