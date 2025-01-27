@@ -4,8 +4,6 @@
   </h1>
 </div>
 
----
-
 ## About Me 
 
 Hi! I have knowledge in **HTML**, **CSS**, and **JavaScript**. Currently, I'm exploring **Node.js** and **React.js** to expand my skillset.
