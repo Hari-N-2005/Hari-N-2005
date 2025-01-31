@@ -4,9 +4,7 @@
   </h1>
 </div>
 
-## About Me 
-
-Hi! My name is Hari Govind N, from India IND. I have knowledge in **C**, **Python**, **Java**, **HTML**, **CSS**, and **JavaScript**. Currently, I'm exploring **Node.js** and **React.js** to expand my skillset.
+ My name is Hari Govind N, from India IND. I have knowledge in **C**, **Python**, **Java**, **HTML**, **CSS**, and **JavaScript**. Currently, I'm exploring **Node.js** and **React.js** to expand my skillset.
 
 - 🌱 I’m always eager to learn new technologies and improve my coding skills.
 - 💻 I’m currently working on a full-stack project that integrates React.js with Node.js.
