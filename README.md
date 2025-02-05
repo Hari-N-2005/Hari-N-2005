@@ -23,7 +23,7 @@ Fun fact: I enjoy solving puzzles and exploring logical challenges to keep my br
   <a href="mailto:harigovindn700@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Send%20Mail-red?style=for-the-badge&logo=gmail" alt="Gmail">
   </a>
-  <a href="https://alien-70.github.io/Portfolio/" target="_blank">
+  <a href="https://hari-n-2005.github.io/Portfolio-Git/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=web" alt="Portfolio">
   </a>
 </div>
