@@ -19,22 +19,6 @@ I'm a developer who loves crafting efficient code and beautiful user interfaces.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshay&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 🚀 Tech Stack
 
 <p align="center">
