@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a developer who loves crafting efficient code and beautiful user interfaces. I started my tech journey exploring the fundamentals of C and Python, and gradually expanded into full-stack web development. I enjoy solving logical challenges and learning new technologies.
+I'm a developer who loves crafting efficient code and beautiful user interfaces. I started my tech journey exploring the fundamentals of C and Java, which is currently expanding to full-stack development. I enjoy solving logical challenges and learning new technologies.
 
 - 🌱 Always learning and improving through building projects
 - 🧠 Strong foundation in computer science and problem-solving
@@ -16,9 +16,9 @@ I'm a developer who loves crafting efficient code and beautiful user interfaces.
 
 ---
 
-### 🚀 Tech Stack
-
----
+<div align="center">
+  <h1>### 🚀 Tech Stack</h1>
+</div>
 
 <!-- Or use these if you prefer breaking them down by category -->
 
