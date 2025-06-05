@@ -9,15 +9,16 @@
 
 I'm a developer who loves crafting efficient code and beautiful user interfaces. I started my tech journey exploring the fundamentals of C and Python, and gradually expanded into full-stack web development. I enjoy solving logical challenges and learning new technologies.
 
-- 🌱 Always learning and improving through hands-on projects
+- 🌱 Always learning and improving through building projects
 - 🧠 Strong foundation in computer science and problem-solving
-- 🎨 Passionate about building intuitive and aesthetic user interfaces
+- 🎨 Passionate about building intuitive and aesthetic UIs
 - 🎯 Goal: Become a proficient full-stack developer and build impactful tech
-- 🧩 Fun fact: I enjoy solving puzzles and logic games in my free time!
 
 ---
 
 ### 🚀 Tech Stack
+
+---
 
 <!-- Or use these if you prefer breaking them down by category -->
 
