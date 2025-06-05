@@ -16,8 +16,8 @@ I'm a developer who loves crafting efficient code and beautiful user interfaces.
 
 ---
 
-<div align="center">
-  <h1>### 🚀 Tech Stack</h1>
+<div>
+  <h1>🚀 Tech Stack</h1>
 </div>
 
 <!-- Or use these if you prefer breaking them down by category -->
