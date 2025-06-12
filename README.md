@@ -75,7 +75,7 @@ I'm a developer who loves crafting efficient code and beautiful user interfaces.
   <a href="mailto:harigovindn700@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Send%20Mail-red?style=for-the-badge&logo=gmail" alt="Gmail">
   </a>
-  <a href="https://hari-n-2005.github.io/Portfolio-Git/" target="_blank">
+  <a href="https://hari-n-2005.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=web" alt="Portfolio">
   </a>
 </div>
